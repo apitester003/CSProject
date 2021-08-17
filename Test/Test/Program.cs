@@ -72,6 +72,38 @@ namespace Test
 
             MultipleLegs(dog, duck);
 
+            //LINQ -----------------------------------------------------------
+
+                //Create a List of type Petclass
+                List<PetClass> pets = new List<PetClass>();
+                pets.Add(new PetClass { 
+                    HasFur=false, Legs=2, Name="Danny", Type=PetType.Duck
+                });
+
+                pets.Add(new PetClass { 
+                    HasFur=true, Legs=4, Name="Tommy", Type=PetType.Dog
+                });
+                //1) USING LINQ STATEMENTS
+
+                //Stores a list of results
+                List<PetClass> results = (from p in pets
+                                     where p.Type == PetType.Dog
+                                     select p).ToList();
+
+                //Gets a single result
+                PetClass singleResult = (from sr in pets
+                                               where sr.Name == "Pluto"
+                                               select sr).FirstOrDefault();
+
+                //2) USING LAMBDA QUERIES
+                results = pets.Where(p => p.Type == PetType.Dog).ToList();
+
+                singleResult = pets.FirstOrDefault(p => p.Name == "Pluto");
+
+                
+
+            Console.WriteLine("found " + results.Count + " Dogs");
+
             Console.ReadLine();
         }
 
