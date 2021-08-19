@@ -4,3 +4,10 @@ C:\CSProject\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\CSProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
 C:\CSProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\CSProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Dot_Net_Projects\CSProject\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Dot_Net_Projects\CSProject\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Dot_Net_Projects\CSProject\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Dot_Net_Projects\CSProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\Dot_Net_Projects\CSProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Dot_Net_Projects\CSProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Dot_Net_Projects\CSProject\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

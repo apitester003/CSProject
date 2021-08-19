@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,21 +11,22 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            //int num1 = 0;
-            //int num2 = 0;
-            //int answer = 0;
+            //Everything begins from here
+                //int num1 = 0;
+                //int num2 = 0;
+                //int answer = 0;
 
-            //Console.WriteLine("Enter a Number");
-            //string sNum = Console.ReadLine();
+                //Console.WriteLine("Enter a Number");
+                //string sNum = Console.ReadLine();
 
-            //Console.WriteLine("Enter a Second Number");
-            //string sNum2 = Console.ReadLine();
+                //Console.WriteLine("Enter a Second Number");
+                //string sNum2 = Console.ReadLine();
 
-            //Int32.TryParse(sNum, out num1);
-            //Int32.TryParse(sNum2, out num2);
+                //Int32.TryParse(sNum, out num1);
+                //Int32.TryParse(sNum2, out num2);
 
-            //answer = num1 + num2;
-            //Console.WriteLine("The Answer is: " + answer);
+                //answer = num1 + num2;
+                //Console.WriteLine("The Answer is: " + answer);
 
             //Defining an array ---- Fixed Type & Fixed Length
                 int[] intArray = new int[5];
@@ -49,12 +51,34 @@ namespace Test
                 listOfStrings.Sort();               //Ascending Sort
 
             //Collection -------- Dictionary - Fixed Type & Variable Length (Associative)
-            Dictionary<string, string> names = new Dictionary<string, string>();
+                Dictionary<string, string> names = new Dictionary<string, string>();
                 names.Add("first_name", "Sam");
                 names.Add("last_name", "Sahoo");
-
                 names.Remove("last_name");
 
+            //Collection -------- ArrayList - Variable Length & Variable Type
+                ArrayList newArrayList = new ArrayList();
+                newArrayList.Add("Ryan");
+
+            //Collection -------- HashTable - Variable Length & Variable Type (Associative)
+                Hashtable studentRecord = new Hashtable();
+                studentRecord.Add("name", "Ryan");
+
+            //Collection -------- SortedList - Variable Length & Variable Type (Associative)
+                SortedList newSortedList = new SortedList();
+                newSortedList.Add("Name", "Ryan");
+
+            //Collection -------- Stack - Variable Length & Variable Type LIFO
+            Stack bookStack = new Stack();
+                bookStack.Push("Ryan");
+                bookStack.Push("Rhodney");
+
+            //Collection -------- Queue - Variable Length & Variable Type FIFO
+                Queue ticketCounter = new Queue();
+                ticketCounter.Enqueue("Ryan");
+                ticketCounter.Enqueue("Ricky");
+
+            
 
             //User Defined Variables -----------------------------------------
             PetStruct dog = new PetStruct();
