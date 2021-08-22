@@ -1,0 +1,7 @@
+D:\Dot_Net_Projects\CSProject\Playground\Playground\bin\Debug\Playground.exe.config
+D:\Dot_Net_Projects\CSProject\Playground\Playground\bin\Debug\Playground.exe
+D:\Dot_Net_Projects\CSProject\Playground\Playground\bin\Debug\Playground.pdb
+D:\Dot_Net_Projects\CSProject\Playground\Playground\obj\Debug\Playground.csproj.AssemblyReference.cache
+D:\Dot_Net_Projects\CSProject\Playground\Playground\obj\Debug\Playground.csproj.CoreCompileInputs.cache
+D:\Dot_Net_Projects\CSProject\Playground\Playground\obj\Debug\Playground.exe
+D:\Dot_Net_Projects\CSProject\Playground\Playground\obj\Debug\Playground.pdb
