@@ -1,0 +1,5 @@
+D:\Dot_Net_Projects\CSProject\Playground\com.squareconnection.mylibrary\bin\Debug\com.squareconnection.mylibrary.dll
+D:\Dot_Net_Projects\CSProject\Playground\com.squareconnection.mylibrary\bin\Debug\com.squareconnection.mylibrary.pdb
+D:\Dot_Net_Projects\CSProject\Playground\com.squareconnection.mylibrary\obj\Debug\com.squareconnection.mylibrary.csproj.CoreCompileInputs.cache
+D:\Dot_Net_Projects\CSProject\Playground\com.squareconnection.mylibrary\obj\Debug\com.squareconnection.mylibrary.dll
+D:\Dot_Net_Projects\CSProject\Playground\com.squareconnection.mylibrary\obj\Debug\com.squareconnection.mylibrary.pdb

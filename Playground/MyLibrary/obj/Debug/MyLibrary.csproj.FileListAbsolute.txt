@@ -1,0 +1,6 @@
+D:\Dot_Net_Projects\CSProject\Playground\MyLibrary\bin\Debug\MyLibrary.dll
+D:\Dot_Net_Projects\CSProject\Playground\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\Dot_Net_Projects\CSProject\Playground\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+D:\Dot_Net_Projects\CSProject\Playground\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\Dot_Net_Projects\CSProject\Playground\MyLibrary\obj\Debug\MyLibrary.dll
+D:\Dot_Net_Projects\CSProject\Playground\MyLibrary\obj\Debug\MyLibrary.pdb
